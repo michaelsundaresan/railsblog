@@ -23,3 +23,8 @@
   .btn.btn-danger {border-radius: 100%;}
 
   h1 {text-shadow: darkgrey 2px 2px;}
+
+  body {background-color: #EEE;
+        background-image: url("railroad.jpeg");
+        color: white;}
+
