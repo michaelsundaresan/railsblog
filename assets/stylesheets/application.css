@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+* {font-family: Times New Roman;
+  font-size: 1.05em;}
+
+  .btn.btn-info {border-radius: 100%;}
+  .btn.btn-primary {border-radius: 100%;
+                    }
+  .btn.btn-warning {border-radius: 100%;}
+  .btn.btn-danger {border-radius: 100%;}
+
+  h1 {text-shadow: darkgrey 2px 2px;}
